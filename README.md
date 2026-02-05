@@ -1,1 +1,1 @@
-I made this file for my favorite animal a polar bear. It lives in the cold and is very cool.
+I made a branch to add my image to the repository. So I have my main, image, and read.me file all together.
